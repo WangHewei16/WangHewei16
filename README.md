@@ -3,4 +3,4 @@
 💡 I'm interested in computer vision and deep learning. Currently working on 3D motion capture for unmanned vehicles. <br />
 🔍 ResearchGate website: [[link]](https://www.researchgate.net/profile/Hewei-Wang-2) &nbsp; &nbsp; &nbsp; &nbsp;  🔍 Google Scholar website: [[link]](https://scholar.google.com/citations?user=7kMECXQAAAAJ&hl=en) <br />
 ![Github stats](https://github-readme-stats.vercel.app/api?username=WangHewei16)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangHewei16&layout=compact)](https://github.com/WangHewei16)
