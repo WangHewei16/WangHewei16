@@ -37,7 +37,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Android](https://img.shields.io/badge/-AndroidNative-%23282C34?&logo=Android)
-![IOS](https://img.shields.io/badge/-IOSNative-%23282C34?&logo=IOS)
 ![Swift](https://img.shields.io/badge/-Swift-%23282C34?&logo=Swift)
 
 ## Backend Skills
@@ -55,12 +54,24 @@
 ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
 ![Jest](https://img.shields.io/badge/-Jest-%231a202c?style=flat-square&logo=jest)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-
+![Rust](https://img.shields.io/badge/-Rust-%23000000?style=flat-square&logo=rust&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=ffffff)
+![Scala](https://img.shields.io/badge/-Scala-%23DC322F?style=flat-square&logo=scala&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-%23E10098?style=flat-square&logo=graphql&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%23009639?style=flat-square&logo=fastapi&logoColor=ffffff)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-%23311C87?style=flat-square&logo=apollo-graphql&logoColor=ffffff)
+![RESTful API](https://img.shields.io/badge/-RESTful_API-%236DB33F?style=flat-square&logo=api&logoColor=ffffff)
 
 ## Database and Message Queue
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-%23DD0031?style=flat-square&logo=redis&logoColor=ffffff)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Kafka](https://img.shields.io/badge/-Kafka-%23000000?style=flat-square&logo=apache-kafka&logoColor=ffffff)
+![Cassandra](https://img.shields.io/badge/-Cassandra-%231280B1?style=flat-square&logo=apache-cassandra&logoColor=ffffff)
 
 ## DevOps and Cloud Services
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
@@ -70,6 +81,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-%230086D6?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%232965E5?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![Travis CI](https://img.shields.io/badge/-Travis_CI-%233EAAAF?style=flat-square&logo=travis-ci&logoColor=ffffff)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-%234285F4?style=flat-square&logo=google-cloud&logoColor=ffffff)
+![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=ffffff)
 
 ## AI and Machine Learning Skills
 
@@ -87,6 +102,14 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
 ![DataBricks](https://img.shields.io/badge/-DataBricks-%23FF5027?style=flat-square&logo=databricks&logoColor=ffffff)
 ![Spacy](https://img.shields.io/badge/-Spacy-%2300BFFF?style=flat-square&logo=spacy&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/-OpenCV-%235BB97E?style=flat-square&logo=opencv&logoColor=ffffff)
+![OpenGL](https://img.shields.io/badge/-OpenGL-%2358498F?style=flat-square&logo=opengl&logoColor=ffffff)
+![BERT](https://img.shields.io/badge/-BERT-%23F9AB00?style=flat-square&logo=bert&logoColor=ffffff)
+![YOLO](https://img.shields.io/badge/-YOLO-%23181717?style=flat-square&logo=yolo&logoColor=ffffff)
+![Tesseract](https://img.shields.io/badge/-Tesseract-%23E34F26?style=flat-square&logo=tesseract&logoColor=ffffff)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-%2376329E?style=flat-square&logo=computer-vision&logoColor=ffffff)
+![Natural Language Processing](https://img.shields.io/badge/-NLP-%230066CC?style=flat-square&logo=natural-language-processing&logoColor=ffffff)
+
 
 
 
