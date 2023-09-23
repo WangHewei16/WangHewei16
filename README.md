@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stephen Wang</h1>
+<h1 align="center">Hi 👋, I'm Stephen W.</h1>
 <h3 align="center">Actively Seeking 24 SDE/MLE Internships</h3>
 
 Hi! I am Stephen👋, a master's student at Carnegie Mellon University, School of Computer Science. My interests lie in distributed systems, computer vision, and machine learning. I originally graduated from University College Dublin (UCD) in Ireland, earning a Bachelor’s in Software Engineering. During my time there, I took on a role as a research intern in the THEIA lab and collaborated with Nanyang Technological University (NTU), supervised by A.P. Yee Hui Lee and Dr. Soumyabrata Dev. My endeavors in the lab have culminated in about 15 works published/submitted in esteemed conferences and journals including CVPR, IEEE Transactions, Elsevier, and ACM MM. Currently seeking 2024 **SDE/MLE/CVE/RE** internships in the **United States**. Please feel free to contact me if there are any available opportunities, or if you are interested in my previous work.
