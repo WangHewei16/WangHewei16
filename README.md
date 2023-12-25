@@ -7,7 +7,7 @@ Hi! I am Stephen👋, a master's student at Carnegie Mellon University (CMU), Sc
 💼 Worked as a machine learning engineer intern at Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). <br />
 💡 I'm interested in computer vision and machine learning, particularly 3D scene construction and 3D-aware image synthesis. <br />
 🔥 Recently, I am fascinated by hybrid optical-electronic CNN, especially its low-power application in image processing. <br />
-🔍 ResearchGate: [[link]](https://www.researchgate.net/profile/Hewei-Wang-2) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  🔍 Google Scholar: [[link]](https://scholar.google.com/citations?user=7kMECXQAAAAJ&hl=en) <br />
+🔍 [Linkedin](https://www.linkedin.com/in/stephen-w-631342231/)  | [Google Scholar](https://scholar.google.com/citations?user=7kMECXQAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Hewei-Wang-2) <br />
 
 
 
