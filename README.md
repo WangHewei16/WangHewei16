@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Stephen H. Wang</h1>
 
 Hi! I am Stephen H. Wang👋, a master's student at Carnegie Mellon University, School of Computer Science ([CMU SCS](https://www.cs.cmu.edu/)). I am working as Computer Vision Student Researcher at [Meta Reality Labs](https://about.meta.com/realitylabs/). My interests lie in computer vision, geometry, machine learning, and deep learning. I originally graduated from University College Dublin (UCD) in Ireland, earning a Bachelor’s in Software Engineering. During UCD, I took on a role as an ML/CV research intern in THEIA lab and collaborated with Nanyang Technological University (NTU), supervised by Assoc Prof Yee Hui Lee and Dr. Soumyabrata Dev. My endeavors have culminated in 10+ works with 100+ citations published and delivered in esteemed conferences, journals, workshops including CVPR, IEEE, SCI, and Elsevier. 
 
