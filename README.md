@@ -6,7 +6,7 @@ Hi! I am Stephen H. Wang👋, a master's student at Carnegie Mellon University, 
 💼 Worked as a machine learning engineer intern at Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). <br />
 💡 I'm interested in computer vision and machine learning, particularly 3D scene construction and 3D-aware image synthesis. <br />
 🔥 Recently, I am fascinated by hybrid optical-electronic CNN, especially its low-power application in image processing. <br />
-🔍 [Linkedin](https://www.linkedin.com/in/stephen-w-631342231/)  | [Google Scholar](https://scholar.google.com/citations?user=7kMECXQAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Hewei-Wang-2) <br />
+🔍 [Linkedin](https://www.linkedin.com/in/stephen-w-631342231/)  | [Google Scholar](https://scholar.google.com/citations?user=zYma17IAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Hewei-Wang-2) <br />
 
 
 
