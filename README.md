@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Stephen H. Wang</h1>
 
-Hi! I am Stephen H. Wang👋, a master's student at Carnegie Mellon University, School of Computer Science ([CMU SCS](https://www.cs.cmu.edu/)). I am working as Computer Vision Student Researcher at [Meta Reality Labs](https://about.meta.com/realitylabs/) and Research Assistant at [CMU Robotics Institute](https://www.ri.cmu.edu/) supervised by Ioannis Gkioulekas. I have previously interned and worked at [Apple](https://www.apple.com/)  [Vision Pro](https://www.apple.com/apple-vision-pro/) as Machine Learning Research Engineer. My interests lie in computer vision, geometry, machine learning, and deep learning. I originally graduated from University College Dublin (UCD) in Ireland, earning a Bachelor’s in Software Engineering. During UCD, I took on a role as an ML/CV research intern in THEIA lab and collaborated with Nanyang Technological University (NTU), supervised by Assoc Prof Yee Hui Lee and Dr. Soumyabrata Dev. My endeavors have culminated in 10+ works with 150+ citations published and delivered in esteemed conferences, journals, and workshops including CVPR, AAAI, CIKM, BMVC, IEEE, SCI, and Elsevier. 
+Hi! I am Stephen H. Wang👋, a master's student at Carnegie Mellon University, School of Computer Science ([CMU SCS](https://www.cs.cmu.edu/)). I am working as Computer Vision Student Researcher at [Meta Reality Labs](https://about.meta.com/realitylabs/) and Research Assistant at [CMU Robotics Institute](https://www.ri.cmu.edu/) supervised by Ioannis Gkioulekas. I have previously interned and worked at [Apple](https://www.apple.com/)  [Vision Pro](https://www.apple.com/apple-vision-pro/) as Machine Learning Research Engineer. My interests lie in computer vision, geometry, machine learning, and deep learning. I originally graduated from University College Dublin ([UCD](https://www.ucd.ie/) in Ireland, earning a Bachelor’s in Software Engineering with Cum Laude. During UCD, I took on a role as an ML/CV research intern in THEIA lab and collaborated with Nanyang Technological University (NTU), supervised by Assoc Prof Yee Hui Lee and Dr. Soumyabrata Dev. My endeavors have culminated in 10+ works with 150+ citations published and delivered in esteemed conferences, journals, and workshops including CVPR, AAAI, CIKM, BMVC, IEEE, SCI, and Elsevier. 
 
 🔍 [Linkedin](https://www.linkedin.com/in/stephenw624/)  | [Google Scholar](https://scholar.google.com/citations?user=zYma17IAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Hewei-Wang-2) <br />
 
 | <img align="center" src="https://profile-a1tm.vercel.app/api?username=WangHewei16&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Github stats" /> | <img align="center" src="https://profile-a1tm.vercel.app/api/top-langs?username=WangHewei16&layout=compact&langs_count=10&theme=vue&hide_border=true" /> |
 | ------------- | ------------- |
 
-
+<!-- 
+👨‍🎓 Obtained First Class Honor at [UCD](https://www.ucd.ie/), and as an undergraduate researcher at the UCD THEIA lab advised by [Dr. Soumyabrata Dev](https://soumyabrata.dev/). <br />
+💼 Worked as a machine learning engineer intern at Institute of Automation, Chinese Academy of Sciences [(CASIA)](http://english.ia.cas.cn/). <br />
+💡 I'm interested in computer vision and machine learning, particularly 3D scene construction and 3D-aware image synthesis. <br />
+🔥 Recently, I am fascinated by hybrid optical-electronic CNN, especially its low-power application in image processing. <br />
 ## General Skills
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -104,7 +108,6 @@ Hi! I am Stephen H. Wang👋, a master's student at Carnegie Mellon University, 
 ![Tesseract](https://img.shields.io/badge/-Tesseract-%23E34F26?style=flat-square&logo=tesseract&logoColor=ffffff)
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-%2376329E?style=flat-square&logo=computer-vision&logoColor=ffffff)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-%230066CC?style=flat-square&logo=natural-language-processing&logoColor=ffffff)
-
-
+-->
 
 
